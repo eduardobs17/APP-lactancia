@@ -12,6 +12,7 @@
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:name=".ActivityInfo"
+            android:label="@string/qu_es_lactancia_por_qu_la_lactancia"
             android:screenOrientation="portrait"/>
         <activity
             android:name=".MainActivity"
