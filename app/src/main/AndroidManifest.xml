@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ActivityInfo"></activity>
+        <activity
+            android:name=".ActivityInfo"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat"/>
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait" />
@@ -21,6 +24,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".SplashScreen"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

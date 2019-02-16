@@ -25,10 +25,11 @@
                 android:orientation="vertical" >
 
                 <Button
-                    android:id="@+id/boton1"
+                    android:id="@+id/botonInfo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/qu_es_lactancia_por_qu_la_lactancia" />
+                    android:text="@string/qu_es_lactancia_por_qu_la_lactancia"
+                    android:onClick="ejecutarInfo"/>
 
                 <Button
                     android:id="@+id/button8"
