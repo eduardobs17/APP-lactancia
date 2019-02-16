@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Promoción de la lactancia materna</string>
+    <string name="title_activity_posiciones">Posiciones</string>
+    <string name="imagen_de_la_pantalla_de_carga">Imagen de la pantalla de carga</string>
+    <string name="qu_es_lactancia_por_qu_la_lactancia">boton1</string>
 </resources>
