@@ -2,9 +2,6 @@ package com.example.applactancia;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.method.ScrollingMovementMethod;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 public class ActivityInfo extends AppCompatActivity {
 

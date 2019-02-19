@@ -11,27 +11,26 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".ActivityInfo"
-            android:label="@string/qu_es_lactancia_por_qu_la_lactancia"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".MainActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".Posiciones"
-            android:label="@string/title_activity_posiciones"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".SplashScreen"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActivityInfo"
+            android:label="@string/boton1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Beneficios"
+            android:label="@string/boton2"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

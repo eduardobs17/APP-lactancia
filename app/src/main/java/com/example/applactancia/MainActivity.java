@@ -65,8 +65,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void ejecutarPosiciones(View v) {
-        Intent intent = new Intent(MainActivity.this, Posiciones.class);
+    public void ejecutarBeneficios(View v) {
+        Intent intent = new Intent(MainActivity.this, Beneficios.class);
         startActivity(intent);
     }
 }
