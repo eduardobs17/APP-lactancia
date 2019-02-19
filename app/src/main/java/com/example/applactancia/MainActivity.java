@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         imageSwitcher.setInAnimation(fadeIn);
         imageSwitcher.setOutAnimation(fadeOut);
 
-        startSlider();
+        //startSlider();
     }
 
     public void startSlider() {
@@ -62,6 +62,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void ejecutarInfo(View v) {
         Intent intent = new Intent(MainActivity.this, ActivityInfo.class);
+        startActivity(intent);
+    }
+
+    public void ejecutarPosiciones(View v) {
+        Intent intent = new Intent(MainActivity.this, Posiciones.class);
         startActivity(intent);
     }
 }
