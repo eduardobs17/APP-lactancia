@@ -38,44 +38,57 @@
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton3"
+                    android:onClick="ejecutarAlimentacion"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton4"
+                    android:onClick="ejecutarCuidado"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton5"
+                    android:onClick="ejecutarExtraccion"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton6"
+                    android:onClick="ejecutarAlmacenamiento"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton7"
+                    android:onClick="ejecutarPosiciones"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton8"
+                    android:onClick="ejecutarCuidados"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton9"
+                    android:onClick="ejecutarLeyes"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton10"
+                    android:onClick="ejecutarPaginasWeb"/>
 
                 <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
-
-                <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
-
+                    android:layout_height="wrap_content"
+                    android:text="@string/boton11"
+                    android:onClick="ejecutarPreguntas"/>
             </LinearLayout>
         </ScrollView>
     </LinearLayout>

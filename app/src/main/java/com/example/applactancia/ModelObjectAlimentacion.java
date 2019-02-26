@@ -1,15 +1,14 @@
 package com.example.applactancia;
 
-public enum ModelObject {
-    BEBE(1, R.layout.beneficios_bebe),
-    MADRE(2, R.layout.beneficios_madre),
-    FAMILIA(3, R.layout.beneficios_familia),
-    MEDIOAMBIENTE(4, R.layout.beneficios_ambiente);
+public enum ModelObjectAlimentacion {
+    BEBE(1, R.layout.alimentacion_6meses),
+    EMBARAZADA(2, R.layout.alimentacion_embarazo),
+    LACTANTE(3, R.layout.alimentacion_lactante);
 
     private int mTitleResId;
     private int mLayoutResId;
 
-    ModelObject(int titleResId, int layoutResId) {
+    ModelObjectAlimentacion(int titleResId, int layoutResId) {
         mTitleResId = titleResId;
         mLayoutResId = layoutResId;
     }

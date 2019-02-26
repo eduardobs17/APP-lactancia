@@ -11,7 +11,7 @@ public class Beneficios extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_beneficios);
 
-        ViewPager viewPager = findViewById(R.id.viewpager);
-        viewPager.setAdapter(new CustomPagerAdapter(this));
+        ViewPager viewPager = findViewById(R.id.viewpagerBeneficios);
+        viewPager.setAdapter(new CustomPagerAdapter(this, 1));
     }
 }

@@ -10,19 +10,35 @@ import android.view.ViewGroup;
 public class CustomPagerAdapter extends PagerAdapter {
 
     private Context mContext;
+    private int mId;
 
-    CustomPagerAdapter(Context context) {
+    CustomPagerAdapter(Context context, int id) {
         mContext = context;
+        mId = id;
     }
 
     @NonNull
     @Override
     public Object instantiateItem(@NonNull ViewGroup collection, int position) {
-        ModelObject modelObject = ModelObject.values()[position];
-        LayoutInflater inflater = LayoutInflater.from(mContext);
-        ViewGroup layout = (ViewGroup) inflater.inflate(modelObject.getLayoutResId(), collection, false);
-        collection.addView(layout);
-        return layout;
+        ViewGroup layout;
+        LayoutInflater inflater;
+        switch (mId) {
+            case 1:
+                ModelObjectBeneficios modelObject1 = ModelObjectBeneficios.values()[position];
+                inflater = LayoutInflater.from(mContext);
+                layout = (ViewGroup) inflater.inflate(modelObject1.getLayoutResId(), collection, false);
+                collection.addView(layout);
+                return layout;
+
+            case 2:
+                ModelObjectAlimentacion modelObject2 = ModelObjectAlimentacion.values()[position];
+                inflater = LayoutInflater.from(mContext);
+                layout = (ViewGroup) inflater.inflate(modelObject2.getLayoutResId(), collection, false);
+                collection.addView(layout);
+                return layout;
+        }
+        //noinspection ConstantConditions
+        return null;
     }
 
     @Override
@@ -32,7 +48,13 @@ public class CustomPagerAdapter extends PagerAdapter {
 
     @Override
     public int getCount() {
-        return ModelObject.values().length;
+        switch (mId) {
+            case 1:
+                return ModelObjectBeneficios.values().length;
+            case 2:
+                return ModelObjectAlimentacion.values().length;
+        }
+        return 0;
     }
 
     @Override
@@ -42,8 +64,15 @@ public class CustomPagerAdapter extends PagerAdapter {
 
     @Override
     public CharSequence getPageTitle(int position) {
-        ModelObject customPagerEnum = ModelObject.values()[position];
-        return mContext.getString(customPagerEnum.getTitleResId());
+        switch (mId) {
+            case 1:
+                ModelObjectBeneficios customPagerEnum1 = ModelObjectBeneficios.values()[position];
+                return mContext.getString(customPagerEnum1.getTitleResId());
+            case 2:
+                ModelObjectAlimentacion customPagerEnum2 = ModelObjectAlimentacion.values()[position];
+                return mContext.getString(customPagerEnum2.getTitleResId());
+        }
+        return null;
     }
 
 }

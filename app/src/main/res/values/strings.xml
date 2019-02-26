@@ -1,23 +1,52 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Promoción de la lactancia materna</string>
+
+    <string name="boton1">¿Qué es lactancia? ¿Por qué la lactancia?</string>
+    <string name="boton2">Beneficios de la lactancia materna</string>
+    <string name="boton3">Alimentación de la madre y del bebé</string>
+    <string name="boton4">Cuidado de mamas</string>
+    <string name="boton5">Extracción de leche</string>
+    <string name="boton6">Almacenamiento de la leche</string>
+    <string name="boton7">Posiciones</string>
+    <string name="boton8">Otros cuidados</string>
+    <string name="boton9">Leyes y reglamentos</string>
+    <string name="boton10">Páginas web y sitios de interés</string>
+    <string name="boton11">Preguntas frecuentes</string>
+
+    <string name="infoGeneral">
+        Una nutrición adecuada durante la niñez es fundamental para garantizar que los niños y las niñas puedan alcanzar su máximo potencial en lo que a crecimiento, salud y desarrollo se refiere.
+        Una nutrición deficiente en esta etapa aumenta el riesgo de padecer enfermedades graves y puede provocar hasta la muerte.\n\n
+        Durante los primeros meses de vida del bebé, la lactancia materna es el mejor método para nutrir y alimentar al bebé.\n\n
+        Lactancia materna se refiere a la forma en la que las madres alimentan, de manera natural, a sus bebés por medio de la leche materna.
+        Esta lactancia es esencial debido a que aporta anticuerpos y nutrientes necesarios para el crecimiento y un desarrollo físico y mental saludable en el bebé.
+        Sin esos nutrientes, el bebé corre el riesgo de sufrir diversas enfermedades y, en el peor de los casos, hasta la muerte.
+        Además, aparte de los nutrientes, la lactancia estimula el apego entre la madre y el bebé y contribuye a la formación de un vínculo entre ambos.\n\n
+        La lactancia materna, la podemos considerar como la primera medida de supervivencia del ser humano, más económica y eficaz.
+        Esta proveerá no solo de alimento sino de un desarrollo óptimo al lactante que favorecerá durante su crecimiento y posteriormente en su desarrollo.
+        La lactancia es más eficaz y menos costosa para evitar la desnutrición y las enfermedades infecciosas durante los primeros meses de vida.\n
+    </string>
+
     <string name="beneficios1">Beneficios para\nel bebé</string>
     <string name="beneficios2">Beneficios para\nla madre</string>
     <string name="beneficios3">Beneficios para\nla familia</string>
     <string name="beneficios4">Beneficios para\nel medio ambiente</string>
+
     <string name="beneficios_bebe" tools:ignore="Typos">
         * La leche materna contiene todos los nutrientes (vitaminas, minerales, anticuerpos, etc.) que el bebé necesita durante los 6 primeros meses de su vida.\n\n
         * La leche materna, al aportar anticuerpos, ayuda a fortalecer el sistema inmunitario y eliminar gérmenes, virus y bacterias.\n\n
         * La lactancia disminuye la mortalidad y la obesidad infantil.\n\n
         * Mejora el desarrollo psicomotor.\n\n
-        * La leche materna favorece el desarrollo intelectual y la agudeza visual del niño: Los niños amamantados son más activos y con mejor capacidad de aprendizaje.\n\n
+        * La leche materna favorece el desarrollo intelectual y la agudeza visual del niño: los niños amamantados son más activos y con mejor capacidad de aprendizaje.\n\n
         * A corto plazo, ayuda a disminuir la incidencia de enfermedades infecciosas, diarrea, meningitis, infecciones de vías respiratorias, entre otras.\n\n
         * A largo plazo, ayuda a disminuir la incidencia de diabetes 1 y 2, leucemia, sobrepeso, asma, alergias, entre otras.
     </string>
     <string name="beneficios_madre">
-        * La lactancia acelera el proceso de recuperación de la mamá. En otras palabras, ayuda a que la madre pierda el peso ganado durante el embarazo más rápidamente y es más difícil que padezca anemia tras el parto.\n\n
+        * La lactancia acelera el proceso de recuperación de la mamá.
+          En otras palabras, ayuda a que la madre pierda el peso ganado durante el embarazo más rápidamente y es más difícil que padezca anemia tras el parto.\n\n
         * Menor riesgo de hipertensión y depresión posparto.\n\n
         * Disminuye el riesgo de sufrir cáncer de ovario y mama, hemorragias postparto y osteoporosis.\n\n
-        * Aumenta el intervalo entre embarazos. La lactancia ofrece protección contra un nuevo embarazo durante los primeros 6 meses. Esto permite a la mujer tener tiempo para recuperar sus fuerzas y su estado nutritivo antes de tener otro niño.\n\n
+        * Aumenta el intervalo entre embarazos. La lactancia ofrece protección contra un nuevo embarazo durante los primeros 6 meses.
+          Esto permite a la mujer tener tiempo para recuperar sus fuerzas y su estado nutritivo antes de tener otro niño.\n\n
         * Fortalece el vínculo madre-hijo.\n\n
         * La hormona oxitocina, que se libera durante la lactancia, actúa para regresar el útero a su tamaño regular más rápido y puede reducir el sangrado post-parto.
     </string>
@@ -35,12 +64,83 @@
         * Protege al niño prematuro provocado porque las mujeres respiran aire contaminado por dióxido de nitrógeno (NO2) y benceno durante el embarazo.\n\n
         * Garantiza población sana, reducción en gastos médicos y en la producción de los desechos asociados.
     </string>
-    <string name="boton1">¿Qué es lactancia? ¿Por qué la lactancia?</string>
-    <string name="boton2">Beneficios de la lactancia materna</string>
-    <string name="infoGeneral">
-        Una nutrición adecuada durante la niñez es fundamental para garantizar que los niños y las niñas puedan alcanzar su máximo potencial en lo que a crecimiento, salud y desarrollo se refiere. Una nutrición deficiente en esta etapa aumenta el riesgo de padecer enfermedades graves y puede provocar hasta la muerte.\n\n
-        Durante los primeros meses de vida del bebé, la lactancia materna es el mejor método para nutrir y alimentar al bebé.\n\n
-        Lactancia materna se refiere a la forma en la que las madres alimentan, de manera natural, a sus bebés por medio de la leche materna. Esta lactancia es esencial debido a que aporta anticuerpos y nutrientes necesarios para el crecimiento y un desarrollo físico y mental saludable en el bebé. Sin esos nutrientes, el bebé corre el riesgo de sufrir diversas enfermedades y, en el peor de los casos, hasta la muerte. Además, aparte de los nutrientes, la lactancia estimula el apego entre la madre y el bebé y contribuye a la formación de un vínculo entre ambos.\n\n
-        La lactancia materna, la podemos considerar como la primera medida de supervivencia del ser humano, más económica y eficaz. Esta proveerá no solo de alimento sino de un desarrollo óptimo al lactante que favorecerá durante su crecimiento y posteriormente en su desarrollo. La lactancia es más eficaz y menos costosa para evitar la desnutrición y las enfermedades infecciosas durante los primeros meses de vida.
+
+    <string name="alimentacion1">Madre en periodo de embarazo</string>
+    <string name="alimentacion2">Madre en periodo de lactancia</string>
+    <string name="alimentacion3">Bebé desde los 6 meses hasta los 12 meses</string>
+
+    <string name="alimentacionembarazada">
+        * Durante el embarazo no hay que seguir una dieta especial.
+          Lo importante es tener una alimentación variada y equilibrada.\n
+        * Consumir la proporción adecuada y en cantidades moderadas de los 6 grupos de alimentos (carbohidratos, verduras, frutas, lácteos, proteínas y grasas).\n\n
+
+        Importancia de una alimentación saludable:\n
+        Puede prevenir:\n
+        * Aumento excesivo de peso.\n
+        * Diabetes gestacional.\n
+        * Las probabilidades de necesitar una cesárea.\n
+        * Anemia e infecciones en la madre.\n
+        * Un nacimiento prematuro del bebé.\n
+        * Un bebé de bajo peso al nacer.\n
     </string>
+    <string name="alimentacionlactante">
+        * La alimentación de la madre antes y durante la lactancia va a condicionar en gran medida el éxito y la calidad de la lactancia natural.\n
+        * Durante la lactancia se produce un incremento en los requerimientos de la mayoría de los nutrientes que se ve compensado en parte por las reservas durante el embarazo.\n\n
+
+        * Vitaminas y minerales: importante consumir porciones de frutas y vegetales variados.\n
+        * Calcio: lo obtenemos de lácteos y vegetales verdes oscuro como la espinaca.\n
+        * Hierro: se obtiene de las carnes, procurar que sean sin grasa.\n
+        * Proteínas: se encuentran en las carnes, en los lácteos y en las leguminosas.\n
+        * Se recomienda tomar agua constantemente, evitar alcohol y bebidas con cafeína, ya que pueden afectar la producción de leche.\n\n
+
+        * Una mala nutrición repercutirá en las propias reservas de determinados nutrientes de la madre, pudiendo afectar la salud tanto del niño como de la madre.\n
+        * No se recomienda tener dietas de pérdida de peso.\n
+        * Se recomienda tener una dieta variada, adecuada, equilibrada y nutritiva, acorde con las costumbres y el apetito de la mujer.\n
+        * Existen muchos mitos de la lactancia, en donde dicen que determinados alimentos pueden hacer desagradable el sabor de la leche materna.
+          Sin embargo, esto no se ha comprobado.\n
+        * El grupo de las frutas y vegetales frescos son ricos en vitaminas y minerales, por lo que la madre puede consumirlos sin restricción.\n
+        * El consumo de productos como carbohidratos complejos y proteínas debe ser moderado.\n
+        * La bebidas alcohólicas y los confites debe ser ocasionales.\n
+        * No se debe excluir de la dieta ningún alimento: si la madre no padece ninguna alergia alimentaria, la mayoría de alimentos que componen su dieta no le provocarían ningún daño a su hijo.
+    </string>
+    <string name="alimentacionbebe">
+        * La comida debe ser rica en energía, proteínas, vitaminas y minerales, debe ser de una consistencia adecuada (papilla, sopa espesa o puré semisólido) y debe ser preparada y servida de forma higiénica.\n
+        * Es importante dar una variedad de alimentos para hacerla más nutritiva y acostumbrar al niño a distintos sabores: frutas y verduras frescas, especialmente las ricas en vitaminas A y C, huevos, leche y alimentos ricos en hierro.\n
+        * Si ofreces a tu bebé comidas variadas, le estás dando la oportunidad de descubrir diferentes sabores y texturas y te aseguras de que obtiene todos los nutrientes que necesita.\n\n
+
+        Tiempos de comida:\n
+        * Los niños pequeños tienen estómagos pequeños y deberían comer con frecuencia.\n
+        * Para el niño saludable y amamantado con frecuencia, la alimentación complementaria se debería dar diariamente: 2 comidas entre los 6 y 12 meses.\n\n
+
+        Temperatura e higiene:\n
+        * Es necesario enfriar los alimentos calientes antes de dárselos al niño hasta que estén a temperatura ambiente para evitar quemaduras.
+        No se deben soplar los alimentos para enfriarlos, porque se pueden contaminar con microorganismos que se encuentren en la boca del adulto que lo alimenta.\n
+        * Los alimentos y utensilios en los que se da la comida al niño deben estar protegidos de las moscas, mascotas, polvo y suciedad.\n
+        * Para comer, el niño debe estar sentado, apropiadamente apoyado y seguro, con las manos limpias y descubiertas.\n
+        * Es importante dar pequeñas porciones.\n\n
+
+        Comidas a evitar:\n
+        * Alimentos con sal o azúcar añadidos.
+          Lea las etiquetas cuidadosamente, ya que muchas comidas envasadas (como legumbres, empanadas o salsas) contienen grandes cantidades de sal.\n
+        * Comida rápida y platos preparados.\n
+        * Miel, mariscos, huevos crudos.
+    </string>
+
+    <string name="extraccion">
+        Para lograrlo, se deben realizar tres pasos:\n\n
+
+        1. Masajear: Debido a que el calor estimula el reflejo de bajada, este se realiza con el pecho descubierto oprimiendo firmemente hacia la caja torácica.
+           Se usa un movimiento circular manteniendo los dedos en un mismo punto, sin deslizar los dedos sobre la piel y después el movimiento se cambia a otra zona del pecho.\n\n
+
+        2. Frotar:  Frotar desde la parte superior del pecho hacia el pezón empezando por la periferia del seno, por todo alrededor.\n\n
+
+        3. Sacudir: Se debe de hacer una inclinación hacia adelante y sacudir ambos pechos.
+           Posteriormente se coloca una mano sobre el seno con el pulgar por encima y los otros cuadro dedos por debajo formando una “C” y se presiona la parte posterior de la areola con movimientos rítmicos y dirigidos hacia la caja torácica.
+           Se giran las manos alrededor del seno por 3 ó 4 minutos con objeto de llegar a todos los conductos lácteos y después de hacerlo en los dos senos se repiten los pasos para aumentar el flujo de la leche.
+           Es importante preparar un recipiente limpio en el cual se almacenara la leche extraída.\n\n\n
+
+
+        Para que la extracción sea exitosa es recomendable utilizar los masajes acompañados de la “técnica de Marmet”.\n
+    </string>
+    <string name="videoExtraccion" tools:ignore="TypographyDashes">Video de ayuda: https://www.youtube.com/watch?v=m3t8vOS--Qs</string>
 </resources>
