@@ -36,8 +36,21 @@
             android:label="@string/boton3"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".CuidadosMamas"
+            android:label="@string/boton4"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".extraccion"
             android:label="@string/boton5"
             android:screenOrientation="portrait" />
+        <activity
+            android:name=".Almacenamiento"
+            android:label="@string/boton6"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Posiciones"
+            android:label="@string/boton7"
+            android:screenOrientation="portrait" />
     </application>
+
 </manifest>

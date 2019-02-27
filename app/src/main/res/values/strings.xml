@@ -126,6 +126,17 @@
         * Miel, mariscos, huevos crudos.
     </string>
 
+    <string name="cuidadoMamas">
+        * Como higiene general, es suficiente con un lavado con agua y poco jabón.\n
+        * Evitar agentes que endurezcan, como el alcohol, porque deshidratan y pueden provocar grietas que son dolorosas y ocasionan la entrada de infecciones.
+          Para mantener hidratada la piel de las mamas, se puede utilizar una crema de vaselina.\n
+        * Utilizar un buen sujetador, preferiblemente de algodón o tejidos porosos que no las compriman y que las mantengan en posición correcta.
+          Con los sujetadores especiales se debe de procurar que estos sujeten bien la parte inferior de las mamas y que la parte elástica no apreté en exceso.\n
+        * Si hay una producción abundante de leche, se pueden utilizar protectores que deben de ser cambiados constantemente para evitar maceraciones, erosiones y grietas.\n
+        * Es muy importante el cuidado de los pezones, previniendo la obstrucción de los conductos lácteos.
+          Para evitar que se dé esta alteración, se pueden hacer masajes que contribuyan a que la leche materna pueda fluir con más facilidad.
+    </string>
+
     <string name="extraccion">
         Para lograrlo, se deben realizar tres pasos:\n\n
 
@@ -142,5 +153,110 @@
 
         Para que la extracción sea exitosa es recomendable utilizar los masajes acompañados de la “técnica de Marmet”.\n
     </string>
-    <string name="videoExtraccion" tools:ignore="TypographyDashes">Video de ayuda: https://www.youtube.com/watch?v=m3t8vOS--Qs</string>
+    <string name="videoExtraccion" tools:ignore="TypographyDashes">Más información: https://www.youtube.com/watch?v=m3t8vOS--Qs</string>
+
+    <string name="almacenamiento">
+        Contenedores de almacenamiento:\n
+        * Los recipientes duros (plástico y vidrios) son los preferidos para almacenar a largo plazo.\n
+        * Las bolsas de plástico diseñadas para almacenamiento de leche humana pueden ser utilizadas para el corto plazo (menos de 72 horas).
+          Para el largo plazo no se recomiendan, ya que pueden derramarse o contaminarse con mayor facilidad.\n\n
+
+        Tiempos de conservación:\n
+        * A temperatura ambiente, la leche se mantiene hasta 8 horas.\n
+        * En la nevera, hasta 3 días.\n
+        * En un congelador dentro de la misma nevera, de 2 a 3 semanas.\n
+        * En un congelador, hasta 3 meses.\n\n
+
+        Reglas generales:\n
+        * Las manos deben lavarse antes de la extracción de leche.\n
+        * Todo el equipo debe ser lavado en agua caliente con jabón líquido.
+          También se recomienda hervir los recipientes.\n
+        * Mantener la leche de un día separada de los otros días.\n
+        * Marcar claramente los recipientes con etiquetas y fechas, a prueba de agua y tinta.\n
+        * No llenar el recipiente (la leche materna se expande al congelarse).\n
+        * La leche más vieja debe ser utilizada de primero.\n
+        * El bebé puede tomar la leche fría, a temperatura ambiente o tibia.\n
+        * Descongelar la leche colocándola abajo en el refrigerador la noche antes de su uso o recalentar mediante un baño maría en agua tibia.\n
+        * La leche se puede guardar en el refrigerador durante 24 luego de descongelada, pero no se puede volver a congelar.\n
+        * Nunca se caliente la leche usando microondas o estufas (se pueden romper las proteínas, que son componentes importantes de la leche).\n
+        * La leche que queda después de una alimentación debe ser desechada. No recongelar la leche!\n
+        * No se debe almacenar la leche materna en la puerta del congelador ya que la temperatura es menos estable.\n\n
+    </string>
+    <string name="videoAlmacenamiento" tools:ignore="TypographyDashes">
+        Más información:\n
+        https://www.youtube.com/watch?v=DhGVozleVKY\n\n
+
+        https://www.youtube.com/watch?v=KU8WEDghp74
+    </string>
+
+    <string name="pos1">Posición sentada clásica</string>
+    <string name="pos2">Posición sentada o de rugby</string>
+    <string name="pos3">Posición acostada de lado</string>
+    <string name="pos4">Posición sentada o de caballito</string>
+    <string name="pos5">Posición cruzada</string>
+    <string name="pos6">Posición paralela inversa</string>
+
+    <string name="posicion1">
+        * La madre se sienta con la espalda recta y apoyada sobre un buen respaldo o almohadas.\n\n
+
+        * Las rodillas están ligeramente más altas que el regazo (pie sobre un taburete pequeño si la madre lo desea).\n\n
+
+        * La cabeza del bebé queda apoyada en la parte interna del ángulo del codo y queda orientada en el mismo sentido que del eje de su cuerpo.\n\n
+
+        * El abdomen del bebé toca el abdomen de la madre y su brazo inferior la abraza por el costado del tórax; la cabeza del bebé descansara sobre el antebrazo de la madre.\n\n\n
+
+        Video tutorial:\nhttps://www.youtube.com/watch?v=V_E3T-S5RSQ
+    </string>
+    <string name="posicion2">
+        Esta posición es útil para amamantar a niños prematuros, mujeres cuyo parto mediante cesárea,
+        pezones dolorosos, vaciar sectores de la mama con retención y niños gemelos.\n\n\n
+
+        * La madre puede estar sentada ya sea en la cama, en una silla o en un sillón.\n\n
+        * El bebé se coloca a un lado de la madre apoyado sobre una almohada.\n\n
+        * El cuerpo del bebé pasará por debajo de la axila materna, con su abdomen apoyado sobre las costillas de la madre.\n\n
+        * Los pies del bebé estarán dirección opuesta a los de ella.\n\n
+        * La madre sostiene con su mano tanto la cadera como la cabeza del bebé (del mismo lado del pecho con el cual está amamantando).\n\n\n
+
+        Video tutorial:\nhttps://www.youtube.com/watch?v=87gmehc73rc
+    </string>
+    <string name="posicion3">
+        Esta posición permite tener contacto visual y es una posición cómoda para las tomas de la noche.
+        También es recomendable para madres con cesárea.\n\n\n
+
+        * La madre debe acostar su cabeza y hombro sobre una almohada y con el brazo rodear al bebé y girarlo hacia el pecho.\n\n
+        * El bebé reposa enfrentando a su madre, quien se encuentra acostada de lado.
+          Por lo tanto, quedan barriga con barriga.\n\n
+        * El bebé tendrá la cabeza a la altura del pecho, siendo más fácil si la cabeza está un poco hacia atrás.\n\n\n
+
+        Video tutorial:\nhttps://www.youtube.com/watch?v=IDZ2UfvDfio
+    </string>
+    <string name="posicion4">
+        Esta posición es útil en caso de prematuros con succión débil, madres con mamas grandes y
+        bebés con reflujo esofágico o con labio leporino o fisura palatina,
+        mandíbula pequeña o problemas de hipotonía.\n\n\n
+
+        * La madre se encuentra sentada.\n\n
+        * El bebé se sienta en una de las piernas de la madre frente al pecho.\n\n
+        * Se coloca la cara del bebé frente al pezón.\n\n
+        * La madre sostiene suavemente la cabeza del bebé desde la base del cráneo.\n\n\n
+
+        Video tutorial:\nhttps://www.youtube.com/watch?v=GJYK95vPdlk
+    </string>
+    <string name="posicion5">
+        Es una variación de la posición clásica. Es útil cuando se alimentan 2 bebés a la vez.\n\n\n
+
+        * Los brazos de la madre se colocan de manera distinta: en lugar de apoyar la cabeza del bebé en el ángulo del codo,
+          la madre sostiene suavemente la cabeza del niño desde la base del cráneo con la mano opuesta al pecho y, con la mano del mismo lado del pecho del que se alimenta el bebé,
+          sostiene el pecho.\n\n\n
+
+        Video tutorial:\nhttps://www.youtube.com/watch?v=qSJZyKF6SdE
+    </string>
+    <string name="posicion6">
+        Es útil en casos de obstrucciones o mastitis agudas localizadas en la parte superior del pecho.\n\n\n
+
+        * La madre debe acostar su cabeza y hombro sobre una almohada y colocar el bebé frente a su pecho pero en dirección contraria a ella de manera paralela.\n\n
+        * En este caso, la posición del bebé es menos frecuente pero hay madres que se sienten cómodas con ella.\n\n\n
+
+        Video tutorial:\nhttps://www.youtube.com/watch?v=t-ramWHGBdk
+    </string>
 </resources>

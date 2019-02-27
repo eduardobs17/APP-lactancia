@@ -36,6 +36,13 @@ public class CustomPagerAdapter extends PagerAdapter {
                 layout = (ViewGroup) inflater.inflate(modelObject2.getLayoutResId(), collection, false);
                 collection.addView(layout);
                 return layout;
+
+            case 3:
+                ModelObjectPosiciones modelObject3 = ModelObjectPosiciones.values()[position];
+                inflater = LayoutInflater.from(mContext);
+                layout = (ViewGroup) inflater.inflate(modelObject3.getLayoutResId(), collection, false);
+                collection.addView(layout);
+                return layout;
         }
         //noinspection ConstantConditions
         return null;
@@ -53,6 +60,8 @@ public class CustomPagerAdapter extends PagerAdapter {
                 return ModelObjectBeneficios.values().length;
             case 2:
                 return ModelObjectAlimentacion.values().length;
+            case 3:
+                return ModelObjectPosiciones.values().length;
         }
         return 0;
     }
@@ -71,6 +80,9 @@ public class CustomPagerAdapter extends PagerAdapter {
             case 2:
                 ModelObjectAlimentacion customPagerEnum2 = ModelObjectAlimentacion.values()[position];
                 return mContext.getString(customPagerEnum2.getTitleResId());
+            case 3:
+                ModelObjectPosiciones customPagerEnum3 = ModelObjectPosiciones.values()[position];
+                return mContext.getString(customPagerEnum3.getTitleResId());
         }
         return null;
     }

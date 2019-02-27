@@ -75,15 +75,26 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void ejecutarCuidado(View v) { }
-
     public void ejecutarExtraccion(View v) {
         Intent intent = new Intent(MainActivity.this, extraccion.class);
         startActivity(intent);
     }
 
-    public void ejecutarAlmacenamiento(View v) { }
-    public void ejecutarPosiciones(View v) { }
+    public void ejecutarAlmacenamiento(View v) {
+        Intent intent = new Intent(MainActivity.this, Almacenamiento.class);
+        startActivity(intent);
+    }
+
+    public void ejecutarPosiciones(View v) {
+        Intent intent = new Intent(MainActivity.this, Posiciones.class);
+        startActivity(intent);
+    }
+
+    public void ejecutarCuidado(View v) {
+        Intent intent = new Intent(MainActivity.this, CuidadosMamas.class);
+        startActivity(intent);
+    }
+
     public void ejecutarCuidados(View v) { }
     public void ejecutarLeyes(View v) { }
     public void ejecutarPaginasWeb(View v) { }
