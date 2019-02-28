@@ -123,20 +123,25 @@ public class MainActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
-    /*@Override
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
         if (id == R.id.menu1) {
-
+            Intent intent = new Intent(MainActivity.this, MenuUbicaciones.class);
+            startActivity(intent);
         }
 
         if (id == R.id.menu2) {
-
+            Intent intent = new Intent(MainActivity.this, MenuContacto.class);
+            startActivity(intent);
         }
 
         if (id == R.id.menu3) {
-
+            Intent intent = new Intent(MainActivity.this, Ayuda.class);
+            startActivity(intent);
         }
-    }*/
+
+        return super.onOptionsItemSelected(item);
+    }
 }

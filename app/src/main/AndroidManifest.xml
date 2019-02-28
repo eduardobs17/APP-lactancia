@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".MenuUbicaciones"></activity>
         <activity
             android:name=".SplashScreen"
             android:screenOrientation="portrait"
@@ -23,6 +22,18 @@
         </activity>
         <activity
             android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MenuUbicaciones"
+            android:label="Ubicaciones"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MenuContacto"
+            android:label="Contacto"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ayuda"
+            android:label="Ayuda"
             android:screenOrientation="portrait" />
         <activity
             android:name=".ActivityInfo"

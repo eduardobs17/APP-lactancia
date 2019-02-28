@@ -419,4 +419,33 @@
         La mayoría de los medicamentos no afecta la lactancia.
         Pero siempre es bueno consultar con su médico para estar segura.\n
     </string>
+
+    <string name="ubicaciones">
+        ¿Dónde encontrarnos?\n
+        Realizamos actividades y repartimos información en diferentes clínicas y ebais, la gran mayoría de estos en el GAM.\n\n
+
+        Entre las clínicas, ebais y hospitales donde realizamos actividades y repartimos información, están:\n
+        1. Clínica Clorito Picado, en Tibás.\n
+        2. Hospital Calderón Guardia, en Barrio Aranjuez.\n
+        3. Hospital de las Mujeres Adolfo Carit Eva, en Plaza Víquez.\n
+        4. Clínica de Barva, en Barva de Heredia.\n
+        5. Clínica Dr. Solón Nuñez Frutos, en Hatillo, San José.\n
+        6. Clínica de Grecia, en Alajuela.\n
+        7. Clínica de Alajuela.\n
+        8. Clínica de Santo Domingo, en Heredia.\n
+    </string>
+
+    <string name="contacto">
+        * Profesora Ernestina Aguirre Vidaurre | 8311-3780 | ernesagui@hotmail.com\n\n
+        * Página oficial del trabajo comunal TC-622: “Promoción de la lactancia materna efectiva y prolongada”: https://www.facebook.com/lactanciamaternaefectiva
+    </string>
+
+    <string name="ayuda">
+        Esta aplicación fue diseñada por estudiantes del TCU-622 durante el ciclo III-18. La finalidad de esta aplicación es permitirle
+        a la población tener, al alcance de la mano, información importante relacionada a la lactancia materna.\n\n
+
+        El TCU-622 "Promoción de la lactancia materna efectiva y prolongada" es un proyecto a cargo de la profesora Ernestina Aguirre.
+        Los estudiantes se encargan, principalmente, de promover la lactancia materna entre la población.
+        Para lograrlo, se realizan actividades semanales en diferentes clínicas y parques del GAM, así como en las instalaciones de la Universidad de Costa Rica.
+    </string>
 </resources>

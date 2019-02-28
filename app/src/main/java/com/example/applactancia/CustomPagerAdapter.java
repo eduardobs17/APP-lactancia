@@ -7,7 +7,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class CustomPagerAdapter extends PagerAdapter {
+/**
+ * Clase auxiliar.
+ * Controla los sliders de layouts.
+ */
+class CustomPagerAdapter extends PagerAdapter {
 
     private Context mContext;
     private int mId;
