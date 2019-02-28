@@ -3,6 +3,8 @@ package com.example.applactancia;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -95,9 +97,46 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void ejecutarCuidados(View v) { }
-    public void ejecutarLeyes(View v) { }
-    public void ejecutarPaginasWeb(View v) { }
-    public void ejecutarPreguntas(View v) { }
+    public void ejecutarCuidados(View v) {
+        Intent intent = new Intent(MainActivity.this, OtrosCuidados.class);
+        startActivity(intent);
+    }
 
+    public void ejecutarLeyes(View v) {
+        Intent intent = new Intent(MainActivity.this, Leyes.class);
+        startActivity(intent);
+    }
+
+    public void ejecutarPaginasWeb(View v) {
+        Intent intent = new Intent(MainActivity.this, Pagsweb.class);
+        startActivity(intent);
+    }
+
+    public void ejecutarPreguntas(View v) {
+        Intent intent = new Intent(MainActivity.this, Preguntas.class);
+        startActivity(intent);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    /*@Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+
+        if (id == R.id.menu1) {
+
+        }
+
+        if (id == R.id.menu2) {
+
+        }
+
+        if (id == R.id.menu3) {
+
+        }
+    }*/
 }

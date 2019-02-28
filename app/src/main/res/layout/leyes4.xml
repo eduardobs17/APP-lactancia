@@ -24,21 +24,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="start"
-                    android:text="2/4"
+                    android:text="4/4"
                     android:textColor="#000000"
                     android:textSize="20sp"
-                    android:typeface="sans" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:layout_marginTop="30dp"
-                    android:ems="10"
-                    android:text="@string/beneficios2"
-                    android:textColor="#000000"
-                    android:textSize="40sp"
-                    android:textStyle="bold"
                     android:typeface="sans" />
 
                 <TextView
@@ -47,7 +35,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="30dp"
                     android:ems="10"
-                    android:text="@string/beneficios_madre"
+                    android:text="@string/leyes4"
                     android:textSize="25sp"
                     android:textStyle="italic"
                     android:typeface="serif" />

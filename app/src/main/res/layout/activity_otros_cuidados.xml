@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    tools:context=".OtrosCuidados">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -18,36 +20,17 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical" >
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="start"
-                    android:text="2/4"
-                    android:textColor="#000000"
-                    android:textSize="20sp"
-                    android:typeface="sans" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:layout_marginTop="30dp"
-                    android:ems="10"
-                    android:text="@string/beneficios2"
-                    android:textColor="#000000"
-                    android:textSize="40sp"
-                    android:textStyle="bold"
-                    android:typeface="sans" />
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
 
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginTop="30dp"
                     android:ems="10"
-                    android:text="@string/beneficios_madre"
+                    android:text="@string/cuidados"
+                    android:autoLink="web"
                     android:textSize="25sp"
                     android:textStyle="italic"
                     android:typeface="serif" />

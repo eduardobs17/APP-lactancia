@@ -8,7 +8,7 @@
     <string name="boton5">Extracción de leche</string>
     <string name="boton6">Almacenamiento de la leche</string>
     <string name="boton7">Posiciones</string>
-    <string name="boton8">Otros cuidados</string>
+    <string name="boton8">Cuidados dentarios</string>
     <string name="boton9">Leyes y reglamentos</string>
     <string name="boton10">Páginas web y sitios de interés</string>
     <string name="boton11">Preguntas frecuentes</string>
@@ -128,12 +128,12 @@
 
     <string name="cuidadoMamas">
         * Como higiene general, es suficiente con un lavado con agua y poco jabón.\n
-        * Evitar agentes que endurezcan, como el alcohol, porque deshidratan y pueden provocar grietas que son dolorosas y ocasionan la entrada de infecciones.
+        \n* Evitar agentes que endurezcan, como el alcohol, porque deshidratan y pueden provocar grietas que son dolorosas y ocasionan la entrada de infecciones.
           Para mantener hidratada la piel de las mamas, se puede utilizar una crema de vaselina.\n
-        * Utilizar un buen sujetador, preferiblemente de algodón o tejidos porosos que no las compriman y que las mantengan en posición correcta.
+        \n* Utilizar un buen sujetador, preferiblemente de algodón o tejidos porosos que no las compriman y que las mantengan en posición correcta.
           Con los sujetadores especiales se debe de procurar que estos sujeten bien la parte inferior de las mamas y que la parte elástica no apreté en exceso.\n
-        * Si hay una producción abundante de leche, se pueden utilizar protectores que deben de ser cambiados constantemente para evitar maceraciones, erosiones y grietas.\n
-        * Es muy importante el cuidado de los pezones, previniendo la obstrucción de los conductos lácteos.
+        \n* Si hay una producción abundante de leche, se pueden utilizar protectores que deben de ser cambiados constantemente para evitar maceraciones, erosiones y grietas.\n
+        \n* Es muy importante el cuidado de los pezones, previniendo la obstrucción de los conductos lácteos.
           Para evitar que se dé esta alteración, se pueden hacer masajes que contribuyan a que la leche materna pueda fluir con más facilidad.
     </string>
 
@@ -258,5 +258,165 @@
         * En este caso, la posición del bebé es menos frecuente pero hay madres que se sienten cómodas con ella.\n\n\n
 
         Video tutorial:\nhttps://www.youtube.com/watch?v=t-ramWHGBdk
+    </string>
+    <string name="cuidados">
+        * Los cuidados y la higienización deben comenzar desde que el bebé comienza a alimentarse para generar un hábito.\n\n
+
+        * Puede utilizar una gasa humedecida con agua para limpiar la encía del lactante luego de amamantarlo.
+          No utilice pasta dental.\n\n
+
+        * Aplicar correctamente el protocolo de cepillado (movimientos, frente al espejo, uso de hilo dental, etc.).\n\n
+
+        * Debe ser rigurosa con su salud bucodental para evitar aparición de placa dental y posteriormente caries.
+          Además, existe una relación entre la gingivitis (inflamación de las encías) y los partos prematuros y bajo peso al nacer.\n\n
+
+        * La asistencia odontológica durante el embarazo es importante.\n\n
+
+        * Debemos introducir hábitos de higiene oral en una fase temprana, acompañado a la lactancia.
+          Si aún no han erupcionado los dientes, usaremos gasa para limpiar las encías y lengua después de cada toma.
+          También podemos utilizar aditamentos especiales adecuados a la edad para favorecer la higiene en esta etapa.
+          Según vayan saliendo los dientes iremos adaptando y adecuándolo a las necesidades de cepillo que requiera el infante.
+          Podemos solicitar ayuda de profesional en el proceso y el niño o niña siempre debe ser supervisado por sus padres en la higiene.\n\n
+
+        * Se debe evitar el uso de biberón, chupete o chupón.
+          Esto debido a que tiene implicaciones en el desarrollo a nivel óseo de maxilares, mandíbula y piezas dentales.\n\n
+
+        * No colocar miel o sustancias azucaradas, ni edulcorantes, porque su contacto prolongado puede ser perjudicial para las futuras piezas dentales.\n\n
+
+        Video con más información:\nhttps://www.youtube.com/watch?v=d8UcB7ytV8A
+    </string>
+
+    <string name="leyes1">
+        En Costa Rica existen leyes que protegen y ayudan a las mujeres en periodo de lactancia.
+        Estas políticas están sustentadas en directrices establecidas por organizaciones como OMS y UNICEF:\n\n
+
+        1. Ley N° 7430 de 1994 (Ley de Fomento de la Lactancia Materna),
+           la cual protege la lactancia materna y fomenta la nutrición saludable y segura hacia los lactantes.\n
+        \n2. Política Pública de Lactancia Materna, la cual fue aprobada por el Ministerio de Salud en 2009.\n
+        \n3. Constitución Política (Derecho a la vida, Prohibición de un trato discriminatorio, Derecho a la Salud, Derecho a la Familia, Tutela Especial a la Mujer y al Niño en el Ámbito Laboral).\n
+        \n4. Convención sobre los Derechos del Niño.\n
+        \n5. Convenio 111 y 183 de OIT.\n
+        \n6. Código de Trabajo.\n
+        \n7. Código Niñez y Adolescencia.
+    </string>
+    <string name="leyes2">
+        ¿Cómo protege la ley a la mujer en periodo de lactancia?\n\n\n
+
+        * Límite al libre despido en el sector privado.\n\n
+
+        * Fueros de protección tutelan sectores tradicionalmente discriminados.
+          Dentro de ellos, la mujer trabajadora en razón del género.\n\n
+
+        * Patrono debe pedir permiso especial al Ministerio de Trabajo para despedir a mujer en período de lactancia.
+    </string>
+    <string name="leyes3">
+        Derechos laborales de la mujer en periodo de lactancia:\n\n\n
+
+        * Trabajadora debe dar aviso del embarazo a su empleador y aportar certificación médica.
+          En caso de no poder dar aviso, basta que el embarazo sea notorio para que la tutele el fuero de protección.\n\n
+
+        * Prohibición a los patronos de despedir a las trabajadoras embarazadas o en período de lactancia, salvo por causa objetiva.\n\n
+
+        * Deber de gestionar el despido de la madre trabajadora por causa justificada ante el Ministerio de Trabajo.\n\n
+
+        * Madre trabajadora gozará obligatoriamente de una licencia remunerada por maternidad durante el mes anterior al parto y los tres meses posteriores durante el estado de lactancia.\n\n
+
+        * Los últimos tres meses del período de lactancia son prorrogables con prescripción médica a beneficio del menor.
+          El plazo recomendado por Política Nacional de Lactancia Materna es de 2 años.\n\n
+
+        * Toda madre trabajadora en período de lactancia tiene derecho a un intervalo de 15 minutos cada 3 horas o de media hora dos veces al día durante la jornada laboral.
+          Este intervalo puede ser negociado entre la trabajadora y patrono mientras no sea menor al intervalo de ley.\n\n
+
+        * Patrono que emplee en su establecimiento más de 30 mujeres está obligado a acondicionar un local para que las madres amamanten sin peligro a sus hijos.
+    </string>
+    <string name="leyes4">
+        Despido en periodo de lactancia:\n
+        El acto discriminatorio por género en detrimento de las mujeres en período de lactancia tiene como consecuencia la nulidad del acto.\n\n
+
+        Nulidad del acto genera:\n
+        * Reinstalación en el puesto y pago del salario dejado de percibir.\n
+        * Indemnización completa por daños y perjuicios y pago de la cesantía.
+    </string>
+
+    <string name="Paginas">
+        Páginas web de interés.\n
+        Acá puede encontrar información adicional de cualquier tema o respuesta a alguna pregunta que le pueda surgir.
+    </string>
+    <string name="Pw1"><a href="https://www.ministeriodesalud.go.cr">1. Ministerio de Salud.</a></string>
+    <string name="Pw2"><a href="http://www.mtss.go.cr">2. Ministerio de Trabajo y Seguridad Social.</a></string>
+    <string name="Pw3"><a href="http://www.who.int/es">3. Organización Mundial de la Salud (OMS).</a></string>
+    <string name="Pw4"><a href="https://www.paho.org/cor/">4. Organización Panamericana de la Salud (OPS).</a></string>
+    <string name="Pw5"><a href="https://www.unicef.org/costarica/">5. UNICEF.</a></string>
+    <string name="Pw6"><a href="https://www.facebook.com/lactanciamaternaefectiva/">6. Página oficial del trabajo comunal TC-622: “Promoción de la lactancia materna efectiva y prolongada”.</a></string>
+    <string name="Pw7"><a href="https://www.youtube.com/channel/UCVBNCmndXmE6_UKFoJEF1xA">7. Canal de Youtube del trabajo comunal TC-622.</a></string>
+
+    <string name="preguntas">
+        • ¿Existe alguna dieta especial para la mujer en el periodo de lactancia?\n
+        No hay dieta especial como tal. Lo ideal es que se trate de una alimentación completa con todos los grupos de alimentos: carbohidratos, proteínas, frutas, vegetales y lácteos.
+        Además, se debe consumir mucha agua.\n\n
+
+        • ¿Algunos alimentos pueden afectar al bebé, como por ejemplo, que le provoquen cólicos?\n
+        Lo que come la mamá le afecta únicamente a la mamá.
+        No existe relación entre los cólicos del bebé y la alimentación de la mujer.\n\n
+
+        • ¿Qué se debe hacer si la mamá produce poca leche?\n
+        Es importante, sobre todo si la mamá es primeriza, que en los primeros días pegue al bebé a su pecho constantemente para aumentar la producción de leche.
+        Al inicio salen solo unas gotitas, que se conocen como calostro.
+        En realidad, es muy nutritivo; aunque sea poco, no significa que no sea suficiente para el bebé.
+        Luego hay un periodo de adaptación, pero con el cambio de hormonas la producción se va a incrementar poco a poco.
+        Mientras más demanda haya, más producción habrá.\n\n
+
+        • ¿Es perjudicial tomar cafeína en el periodo de lactancia?\n
+        Se recomienda consumir un máximo de 300 mg de cafeína al día, tomando en cuenta todas las bebidas que la contienen.
+        Si la cafeína se elimina del todo, más bien puede ser contraproducente, porque el cuerpo puede entrar en periodo de abstinencia y afectar emocionalmente a la madre, lo que sí podría afectar, a su vez, la lactancia.\n\n
+
+        • ¿Se deben tomar vitaminas durante la lactancia?\n
+        El cuerpo destina siempre los mejores nutrientes para producir la leche de mejor calidad.
+        Entonces, si la mamá no tiene los nutrientes suficientes, puede comenzar a sufrir caída del cabello, a tener uñas quebradizas o a presentar daños en la piel.
+        Sin embargo, esto no se soluciona con vitaminas.
+        Lo importante es alimentarse adecuadamente para que no haya necesidad de ningún suplemento.\n\n
+
+        • ¿Tomar agua ayuda a la producción de leche?\n
+        Siempre es muy importante hidratarse.
+        Dar de mamar consume unas 700 calorías por día.
+        De hecho, se consumen más calorías en el periodo de lactancia que durante el embarazo.
+        Es como cuando se hace ejercicio: necesitamos hidratarnos más.
+        Por lo tanto, no es que el agua se convierta en leche. Lo que hace es que ayuda al cuerpo a recuperarse.\n\n
+
+        • ¿Cómo debe prepararse la mujer cuando regresa al trabajo?\n
+        Alrededor de 2 meses después de nacido el niño, la mamá debe irse preparando poco a poco para el proceso de reinsertarse en la vida laboral.
+        Es importante que vaya practicando cómo extraerse la leche y que se acostumbre a esta nueva rutina.
+        Es importante recalcar que, por ley, todos los centros de trabajo deben tener una sala para extraer leche que sea tranquila, higiénica y cómoda para que las mujeres pueden realizar este proceso con total tranquilidad.\n\n
+
+        • ¿Cómo se debe conservar la leche?\n
+        Es importante que la zona donde la madre se extrae la leche sea limpia y que se lave las manos antes de realizarlo.
+        Además, los recipientes deben estar correctamente esterilizados.
+        A temperatura ambiente, la leche puede durar en buen estado por 8 horas.
+        En caso de que se coloque en la refrigeradora, puede durar de 3 a 5 días y, en el congelador, de 3 a 6 meses.
+        Es importante también anotar la cantidad y la fecha.
+        Un aspecto por tomar en cuenta es que no se aconseja guardar mucha leche en un solo recipiente porque, si el bebé no se la toma toda y entra en contacto con su saliva, luego ya no se puede usar.\n\n
+
+        • ¿Si la mujer está embarazada y ya tiene un hijo en edad de lactancia, ¿este debe de dejar de lactar?\n
+        Si el embarazo avanza con normalidad y la mamá está bien alimentada, no pasa nada.
+        Una mujer puede dar de mamar estando embarazada e, incluso, a dos o más niños, en lo que se conoce como lactancia en tándem, aunque sí es importante tener en cuenta que el recién nacido ha de tener prioridad.\n\n
+
+        • ¿Cuándo se le deben de comenzar a dar otros alimentos a un niño?\n
+        Hasta los 6 meses los bebés no necesitan más que leche materna, ni siquiera agua, porque la leche contiene suficiente líquido.
+        Alrededor de los 6 meses, cuando el bebé se puede sentar solo, se puede comenzar a probar a introducir alimentos sólidos.
+        Sin embargo, hasta el año, el alimento principal debe ser la leche materna.\n\n
+
+        • Si los pezones están rotos y sangran, ¿la mujer puede seguir dando de mamar?\n
+        En este caso no hay ningún problema para el bebé, pero sí es importante, por el cuidado de la mujer, que coloque bien al niño porque, si se rompen, muchas veces se debe a una mala postura a la hora de amamantar.
+        La boca del bebé debe abarcar toda la aureola y la lengua debe quedar abajo.\n\n
+
+        • ¿Hasta cuándo se debe dar de mamar?\n
+        La Organización Mundial de la Salud recomienda dar de mamar al menos durante los primeros dos años de vida.
+        Sin embargo, es posible continuar mientras la madre y el hijo se sientan cómodos.
+        El bebé no solo recibe nutrientes, sino que además recibe protección contra las enfermedades y desarrolla un vínculo de apego.
+        Luego del año, se le puede comenzar a acostumbrar quizás a que se le da de mamar solo en la mañana y en la noche.\n\n
+
+        • ¿Hay medicamentos que afectan la lactancia?\n
+        La mayoría de los medicamentos no afecta la lactancia.
+        Pero siempre es bueno consultar con su médico para estar segura.\n
     </string>
 </resources>
