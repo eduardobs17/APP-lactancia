@@ -424,16 +424,14 @@
         ¿Dónde encontrarnos?\n
         Realizamos actividades y repartimos información en diferentes clínicas y ebais, la gran mayoría de estos en el GAM.\n\n
 
-        Entre las clínicas, ebais y hospitales donde realizamos actividades y repartimos información, están:\n
-        1. Clínica Clorito Picado, en Tibás.\n
-        2. Hospital Calderón Guardia, en Barrio Aranjuez.\n
-        3. Hospital de las Mujeres Adolfo Carit Eva, en Plaza Víquez.\n
-        4. Clínica de Barva, en Barva de Heredia.\n
-        5. Clínica Dr. Solón Nuñez Frutos, en Hatillo, San José.\n
-        6. Clínica de Grecia, en Alajuela.\n
-        7. Clínica de Alajuela.\n
-        8. Clínica de Santo Domingo, en Heredia.\n
+        \nEntre las clínicas, ebais y hospitales donde realizamos actividades y repartimos información, están:\n
     </string>
+    <string name="ubic1"><a href="http://maps.google.com/maps?q=9.9464982,-84.0837214">1. Clínica Clorito Picado.\n</a></string>
+    <string name="ubic2"><a href="http://maps.google.com/maps?q=9.9369075,-84.0716197">2. Hospital Calderón Guardia.\n</a></string>
+    <string name="ubic3"><a href="http://maps.google.com/maps?q=9.923906,-84.0835054">3. Hospital de las Mujeres Adolfo Carit Eva.\n</a></string>
+    <string name="ubic4"><a href="http://maps.google.com/maps?q=10.020052,-84.1304149">4. Clínica de Barva.\n</a></string>
+    <string name="ubic5"><a href="http://maps.google.com/maps?q=9.9174555,-84.1041971">5. Clínica Dr. Solón Nuñez Frutos.\n</a></string>
+    <string name="ubic6"><a href="http://maps.google.com/maps?q=10.0735161,-84.3227055">6. Clínica de Grecia.\n</a></string>
 
     <string name="contacto">
         * Profesora Ernestina Aguirre Vidaurre | 8311-3780 | ernesagui@hotmail.com\n\n

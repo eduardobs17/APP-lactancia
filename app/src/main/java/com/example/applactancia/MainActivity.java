@@ -95,6 +95,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }
 
+        if (id == R.id.menu4) {
+            Intent intent = new Intent(MainActivity.this, MenuGaleria.class);
+            startActivity(intent);
+        }
+
         return super.onOptionsItemSelected(item);
     }
 }

@@ -28,6 +28,10 @@
             android:label="Ubicaciones"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".MenuGaleria"
+            android:label="Galería de fotos"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".MenuContacto"
             android:label="Contacto"
             android:screenOrientation="portrait" />
